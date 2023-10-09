@@ -621,3 +621,16 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+
+
+.logo
+{
+    width:128px;
+}
+
+.btn-primary {
+    color: #000;
+    background-color: #AB7442;
+    border-color: #AB7442;
+}
