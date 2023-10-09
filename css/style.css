@@ -630,7 +630,12 @@
 }
 
 .btn-primary {
-    color: #000;
-    background-color: #AB7442;
-    border-color: #AB7442;
+    background-color: #f78f21;
+    border-color: #f78f21;
+}
+
+.btn-primary:hover{
+    color: #fff;
+    background-color: #f77f00;
+    border-color: #f78f21;
 }
