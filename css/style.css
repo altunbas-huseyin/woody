@@ -643,3 +643,36 @@
 .service-item{
     text-align: center;
 }
+
+
+.text-red
+{
+    color: #e30613;
+}
+
+
+.play-icon
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 148px;
+    color: white;
+}
+
+.play-icon:hover
+{
+    color: #f5efef;
+    cursor: pointer;
+}
+
+.cursor-pointer
+{
+    cursor: pointer;
+}
+
+.mb-5
+{
+    letter-spacing: 0.1px;
+}
