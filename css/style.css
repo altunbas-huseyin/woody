@@ -676,3 +676,16 @@
 {
     letter-spacing: 0.1px;
 }
+
+#footer
+{
+    position: relative;
+}
+
+#sticky-footer
+{
+    position: sticky;
+    bottom: 0;
+    border-bottom: 1px solid #ccc;
+    padding: 0px;
+}
